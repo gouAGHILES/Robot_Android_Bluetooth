@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetRoboAndroid</string>
+
+    <string name="title_activity_main">Bluetooth1</string>
+    <string name="btn_Gauche">Gauche</string>
+    <string name="btn_Droite">Droite</string>
+    <string name="btn_ON">Avant</string>
+    <string name="btn_OFF">Arret</string>
+    <string name="btn_Arriere">Arriere</string>
+</resources>
